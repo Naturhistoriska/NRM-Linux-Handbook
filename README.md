@@ -4,4 +4,4 @@ NRM Linux Handbook - Wiki pages. These pages contain information on how to set u
 
 The Wiki pages can be cloned:
 
-    git clone https://github.com/YOUR_USERNAME/NRM-Linux-Handbook.wiki.git
+    git clone https://github.com/A_USERNAME/NRM-Linux-Handbook.wiki.git
